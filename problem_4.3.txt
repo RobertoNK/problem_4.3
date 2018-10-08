@@ -1,0 +1,13 @@
+Problem #3 chapter 4
+
+Make the following changes to the VIN program (section 3.9)
+
+(a) Add a loop so that, after displaying information about
+the VIN entered by the user,the program will ask the user for
+another VIN. The process will repeat indefinetly until the
+user enters an empty string for the VIN. (you can test this
+condition by writting either vin.equals("") or vin.length==0)
+
+(b)Have the program display the country of manufacture (Japan,
+United states, Canada, or Mexico) if the country is J,1,2,or
+3
